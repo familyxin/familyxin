@@ -10,12 +10,12 @@ paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-domain: songpeace.github.io
+domain: familyxin.github.io
 title: 首页
 description: 
-author: songworld
-email: songworld#126.com
-github: songpeace
+author: xinxin
+email: familyxin#126.com
+github: familyxin
 
 config:
   js_dir:
